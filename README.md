@@ -1,34 +1,15 @@
+
+# awesomeBooks
+- This Awesome books project will be for adding, viewing and reading books. Created in Vanilla JS to showcase the array methods and JS classes skills obtained so far at Microverse.
+
+
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
   
 
-  <h3><b>Benjamin's README</b></h3>
+  <h3><b>Benjamin's AwesomeBooks README</b></h3>
 
 </div>
 
@@ -40,7 +21,6 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -57,23 +37,22 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Benjamin_Portfolio] <a name="about-project"></a>
+# 📖 [awesomeBooks] <a name="about-project"></a>
 
 
 
-**[Benjamin_Portfolio]** is a Setup of the project repository
+**[awesomeBooks]** is like a books library built in the microverse program. Its built using HTML, CSS and Javascript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
 
 <details>
   
   <ul>
     <li><a href="https://www.w3schools.com/html/">HTML</a></li>
     <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+    <li><a href="https://www.w3schools.com/css/">Javascript</a></li>
   </ul>
 </details>
 
@@ -87,6 +66,7 @@ After you're finished please remove all the comments and instructions!
 <ul>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Javascript</li>
   </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,8 +77,7 @@ After you're finished please remove all the comments and instructions!
 
 
 <ul>
-    <li><a href="https://benjaminmatembe.github.io/Portfolio/">Live Demo</a></li>
-    
+    <li><a href="">Coming soon....</a></li>    
   </ul>
   
 
@@ -119,6 +98,8 @@ In order to run this project you need:
 
 Clone the code from project using terminal into your local machine and then open with live server on the index.html
 
+- using SSH (git@github.com:BenjaminMatembe/awesomeBooks_modules.git )
+- using HTTPS (git clone https://github.com/BenjaminMatembe/awesomeBooks_modules.git )
 
 
 ### Setup
@@ -127,11 +108,11 @@ Clone the code from project using terminal into your local machine and then open
 >Clone this repository to your desired folder using:
 
  <h1>Setup SSH-key and use this command</h1>
- git clone https://github.com/BenjaminMatembe/Portfolio.git
+ git clone git clone git@github.com:BenjaminMatembe/awesomeBooks_modules.git
 
  <h1>Using HTTPS</h1>
 
- git clone git@github.com:BenjaminMatembe/Portfolio.git
+ git clone https://github.com/BenjaminMatembe/awesomeBooks_modules.git
 
 
 
@@ -156,7 +137,7 @@ To run tests, run the following command:
 
 ### Deployment
 
-This project was deployed using github pages
+- link coming soon!!!!.......
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,14 +148,15 @@ This project was deployed using github pages
 
 
 👤 **Benjamin**
+- GitHub: [@BenjaminMatembe](https://github.com/BenjaminMatembe)
+ 
+ 👤 **Gabriel Rozas**
+
+- GitHub: [@EmiLoKiJu](https://github.com/EmiLoKiJu)
+- Twitter: [@GabrielRozas12](https://twitter.com/GabrielRozas12)
+- LinkedIn: [grozas](https://www.linkedin.com/in/grozas/)
 
 - GitHub: [@githubhandle](https://github.com/BenjaminMatembe)
-
-👤 **Nylbert Victor**
-
-- GitHub: [@redmarverick](https://github.com/redmarverick)
-- Twitter: [@MarverickRed]("https://twitter.com/MarverickRed)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nylbert-victor-397951120/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -185,7 +167,6 @@ This project was deployed using github pages
 
 
 <ul>
-    <li>Add javascript functionality</li>
     <li>Add libraries and frameworks</li>
     <li>Connect Database</li>
   </ul>
@@ -216,9 +197,11 @@ If you like this project you can reuse the code and suggest adjustments too.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+* I would like to thank God for bringing me this far in this Microverse Full-time software Development program.
 
+* I further more extend my sincere gratitude to Microverse for providing this opportunity that is a game changer to many who choose to take it on.
 
-I would like to thank my coding partners for the help rendered when doing this project.
+* I also thank Gabriel Rozas who helped while pair programming during the initial stages of this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,9 +210,8 @@ I would like to thank my coding partners for the help rendered when doing this p
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/BenjaminMatembe/Portfolio/blob/main/MIT.md) licensed.
+This project is [MIT](https://github.com/BenjaminMatembe/awesomeBooks_modules/blob/main/MIT.md)) licensed.
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
