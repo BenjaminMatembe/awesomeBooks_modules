@@ -3,6 +3,8 @@ import BookcollectionClass from './modules/BookCollectionClass.js';
 import menuselector, { menu } from './modules/menuSelector.js';
 import { DateTime } from './modules/luxonDate.js';
 
+// check storage
+
 let isStorage = false;
 
 if (storage('localStorage')) {
