@@ -1,6 +1,5 @@
 import storage from './modules/storage.js';
 import BookcollectionClass from './modules/BookCollectionClass.js';
-import menuselector, { menu } from './modules/menuSelector.js';
 import { DateTime } from './modules/luxonDate.js';
 
 // check storage
@@ -71,6 +70,21 @@ const updateTime = () => {
 setInterval(updateTime, 1000);
 
 // navbar
+
+const menu = document.querySelectorAll('header li');
+const section = document.querySelectorAll('.section');
+
+const menuselector = (menuelement) => {
+  for (let i = 0; i < menu.length; i += 1) {
+    if (menuelement === menu[i]) {
+      if (!menu[i].classList.contains('activewindow')) menu[i].classList.add('activewindow');
+      if (section[i].classList.contains('dnone')) section[i].classList.remove('dnone');
+    } else {
+      if (menu[i].classList.contains('activewindow')) menu[i].classList.remove('activewindow');
+      if (!section[i].classList.contains('dnone')) section[i].classList.add('dnone');
+    }
+  }
+};
 
 for (let i = 0; i < menu.length; i += 1) {
   menu[i].addEventListener('click', () => {
