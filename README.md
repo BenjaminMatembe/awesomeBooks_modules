@@ -1,6 +1,6 @@
 
 # awesomeBooks
-- This Awesome books project will be for adding, viewing and reading books. Created in Vanilla JS to showcase the array methods and JS classes skills obtained so far at Microverse.
+- This Awesome books project is for for adding, viewing and reading books. Created in Vanilla JS to showcase the array methods and JS classes skills obtained so far at Microverse.
 
 
 <a name="readme-top"></a>
